@@ -1,0 +1,140 @@
+[
+    {
+        "timestamp": "2026-06-04 00:38:02.425",
+        "key": "a",
+        "char": "a",
+        "keycode": 65
+    },
+    {
+        "timestamp": "2026-06-04 00:38:02.599",
+        "key": "d",
+        "char": "d",
+        "keycode": 68
+    },
+    {
+        "timestamp": "2026-06-04 00:38:03.516",
+        "key": "h",
+        "char": "h",
+        "keycode": 72
+    },
+    {
+        "timestamp": "2026-06-04 00:38:03.536",
+        "key": "c",
+        "char": "c",
+        "keycode": 67
+    },
+    {
+        "timestamp": "2026-06-04 00:38:03.687",
+        "key": "b",
+        "char": "b",
+        "keycode": 66
+    },
+    {
+        "timestamp": "2026-06-04 00:38:04.113",
+        "key": "c",
+        "char": "c",
+        "keycode": 67
+    },
+    {
+        "timestamp": "2026-06-04 00:38:04.124",
+        "key": "b",
+        "char": "b",
+        "keycode": 66
+    },
+    {
+        "timestamp": "2026-06-04 00:38:05.261",
+        "key": "b",
+        "char": "b",
+        "keycode": 66
+    },
+    {
+        "timestamp": "2026-06-04 00:38:05.492",
+        "key": "h",
+        "char": "h",
+        "keycode": 72
+    },
+    {
+        "timestamp": "2026-06-04 00:38:05.621",
+        "key": "d",
+        "char": "d",
+        "keycode": 68
+    },
+    {
+        "timestamp": "2026-06-04 00:38:05.624",
+        "key": "b",
+        "char": "b",
+        "keycode": 66
+    },
+    {
+        "timestamp": "2026-06-04 00:38:05.737",
+        "key": "c",
+        "char": "c",
+        "keycode": 67
+    },
+    {
+        "timestamp": "2026-06-04 00:38:05.766",
+        "key": "h",
+        "char": "h",
+        "keycode": 72
+    },
+    {
+        "timestamp": "2026-06-04 00:38:05.852",
+        "key": "d",
+        "char": "d",
+        "keycode": 68
+    },
+    {
+        "timestamp": "2026-06-04 00:38:06.152",
+        "key": "b",
+        "char": "b",
+        "keycode": 66
+    },
+    {
+        "timestamp": "2026-06-04 00:38:06.294",
+        "key": "b",
+        "char": "b",
+        "keycode": 66
+    },
+    {
+        "timestamp": "2026-06-04 00:38:06.315",
+        "key": "c",
+        "char": "c",
+        "keycode": 67
+    },
+    {
+        "timestamp": "2026-06-04 00:38:06.366",
+        "key": "h",
+        "char": "h",
+        "keycode": 72
+    },
+    {
+        "timestamp": "2026-06-04 00:38:06.409",
+        "key": "d",
+        "char": "d",
+        "keycode": 68
+    },
+    {
+        "timestamp": "2026-06-04 00:38:06.678",
+        "key": "d",
+        "char": "d",
+        "keycode": 68
+    },
+    {
+        "timestamp": "2026-06-04 00:38:06.777",
+        "key": "c",
+        "char": "c",
+        "keycode": 67
+    },
+    {
+        "timestamp": "2026-06-04 00:38:06.906",
+        "key": "d",
+        "char": "d",
+        "keycode": 68
+    },
+    {
+        "timestamp": "2026-06-04 00:38:07.077",
+        "key": "c",
+        "char": "c",
+        "keycode": 67
+    }
+]
